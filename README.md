@@ -1,2 +1,2 @@
 # bi-api-sys-test
-A collection of scalatests to test the migration to new cloudfoundry and future deployments
+A collection of tests for the BI APIs using ScalaTest to test deployments and migration deployment (from Pivotal to OS) Cloudfoundry 
