@@ -18,4 +18,7 @@ object PAYE extends Tag("uk.gov.ons.bi.paye")
 object VAT extends Tag("uk.gov.ons.bi.vat")
 object CompanyHouse extends Tag("uk.gov.ons.bi.ch")
 
+object CloudFoundry extends Tag("uk.gov.ons.deployment.system.test.cloudfoundry")
+object Gateway extends Tag("uk.gov.ons.deployment.system.test.gateway")
+
 
